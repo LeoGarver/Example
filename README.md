@@ -1,3 +1,3 @@
 Example
 =======
-ver 0.3
+ver 0.4a
